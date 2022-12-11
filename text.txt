@@ -1,0 +1,4 @@
+my name is shuvajit prcticing git and gitHub 
+
+ok now I'm opening this from cmd by "<file name> -v" and notepad opened and I'm making the changes..
+
